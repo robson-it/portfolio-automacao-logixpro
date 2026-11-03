@@ -34,7 +34,9 @@ O projeto tem como objetivos:
 O sistema é composto por dispositivos de comando, sensores de posicionamento e elementos de acionamento.
 
 Elemento                        | Função
+
 CLP                             | Processamento da lógica de controle
+
 Botão de abertura               | Solicita a abertura do portão
 Botão de fechamento             | Solicita o fechamento do portão
 Botão de parada                 | Interrompe o funcionamento do sistema
