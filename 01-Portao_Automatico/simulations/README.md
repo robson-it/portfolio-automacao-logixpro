@@ -19,3 +19,5 @@ https://github.com/user-attachments/assets/b111c6a8-0794-41f9-8b7d-9244a2ea391a
 ### :computer: Screenshot do programa desenvolvido em Ladder:
 
 <img width="850" height="511" alt="Lógica_Ladder" src="https://github.com/user-attachments/assets/9e0b31cd-1d8f-44e9-bf94-2858c445b67e" />
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJ1cHNoZzNhMDMxZnhyNjFkcnh5bWFmYms1cng5bGcwbjNicjFlcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iFOcDOYvKCIeNqeSVA/giphy.gif" alt="Linha de produção automatizada" width="500"/>
