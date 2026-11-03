@@ -1,6 +1,6 @@
-#🚧 Portão Automático
+# 🚧 Portão Automático
 
-###📌 Visão Geral
+### 📌 Visão Geral
 
 Este projeto consiste no desenvolvimento de um sistema automatizado para controle de abertura e fechamento de um portão, utilizando programação Ladder (LD) em um Controlador Lógico Programável (CLP).
 
@@ -8,7 +8,7 @@ O sistema utiliza dois acionamentos independentes, destinados aos movimentos de 
 
 A lógica foi desenvolvida no ambiente LogixPro, aplicando conceitos de comandos elétricos e automação industrial.
 
-###🎯 Contexto de Aplicação
+### 🎯 Contexto de Aplicação
 
 Em instalações industriais, centros logísticos e áreas de acesso controlado, portões são utilizados para controlar a entrada e saída de veículos e pessoas.
 
@@ -16,7 +16,7 @@ A operação manual desses dispositivos pode exigir intervenção constante de o
 
 A automatização desse mecanismo permite controlar os movimentos do portão por meio de comandos elétricos e dispositivos de monitoramento, proporcionando maior praticidade e organização operacional.
 
-###🎯 Objetivo do Projeto
+### 🎯 Objetivo do Projeto
 
 Desenvolver uma lógica de controle para automatizar a abertura e o fechamento de um portão, utilizando recursos de programação Ladder.
 
@@ -29,8 +29,8 @@ O projeto tem como objetivos:
 - Implementar intertravamento para impedir comandos simultâneos de abertura e fechamento.
 - Simular e validar o funcionamento da lógica desenvolvida.
 
-###⚙️ Arquitetura do Sistema
-
+### ⚙️ Arquitetura do Sistema
+ 
 O sistema é composto por dispositivos de comando, sensores de posicionamento e elementos de acionamento.
 
 | Elemento: _____________________________ | Função: ______________________________________ | \
@@ -46,7 +46,7 @@ O sistema é composto por dispositivos de comando, sensores de posicionamento e 
 | Lâmpada Open_________________________: Indica a abertura completa do portão \
 | Lâmpada Ajar___________________________: Indica o portão entreaberto 
 
-###🧠 Lógica de Controle
+### 🧠 Lógica de Controle
 
 A programação foi desenvolvida utilizando a linguagem Ladder (LD), explorando recursos fundamentais de automação e comandos elétricos.
 
@@ -72,7 +72,7 @@ Essa condição impede que os dois acionamentos sejam comandados simultaneamente
 
 Os sensores monitoram os limites de movimentação do portão, permitindo interromper o acionamento correspondente quando a posição final é alcançada.
 
-###🔌 Recursos de Programação Aplicados
+### 🔌 Recursos de Programação Aplicados
 
 - Linguagem Ladder (LD).
 - Circuitos de selo.
@@ -83,7 +83,7 @@ Os sensores monitoram os limites de movimentação do portão, permitindo interr
 - Sensores de fim de curso.
 - Sinalização do funcionamento por sinaleiros.
 
-###📐 Diagramas Elétricos
+### 📐 Diagramas Elétricos
 
 Esta seção reúne a documentação elétrica do projeto, permitindo visualizar a estrutura dos circuitos e a relação entre os dispositivos de comando e acionamento.
 
@@ -92,7 +92,7 @@ Esta seção reúne a documentação elétrica do projeto, permitindo visualizar
 
 Os diagramas estarão disponíveis no diretório "docs/".
 
-###🧪 Simulação e Validação
+### 🧪 Simulação e Validação
 
 O projeto foi desenvolvido e testado utilizando o ambiente LogixPro.
 
@@ -106,7 +106,7 @@ Durante a simulação, podem ser verificadas as seguintes condições:
 
 Os vídeos e demais evidências de funcionamento estarão disponíveis no diretório "simulation/".
 
-###📁 Estrutura do Projeto
+### 📁 Estrutura do Projeto
 
 portao-automatico/ \
 │ \
@@ -122,7 +122,7 @@ portao-automatico/ \
 ├── simulation/ \
 │   └── videos-e-evidencias 
 
-###🚀 Possíveis Melhorias
+### 🚀 Possíveis Melhorias
 
 Como possibilidades de evolução, o sistema poderá receber:
 
@@ -132,13 +132,13 @@ Como possibilidades de evolução, o sistema poderá receber:
 - Integração com sistemas de controle de acesso.
 - Implementação de parada de emergência.
 
-###🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 - Linguagem: Ladder (LD).
 - Ambiente de desenvolvimento e simulação: LogixPro.
 - Controlador: CLP simulado no ambiente LogixPro.
 
-###👨‍💻 Autor
+### 👨‍💻 Autor
 
 Robson Alves Rocha
 
