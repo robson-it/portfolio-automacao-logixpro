@@ -3,14 +3,13 @@
 
 ### :pushpin: Repositório
 
-Este repositório reúne projetos práticos de automação industrial desenvolvidos com foco em aplicações reais de chão de fábrica.
+Este repositório reúne projetos práticos de automação industrial desenvolvidos com foco em aplicações reais de chão de fábrica e dia-a-dia.
 
-O objetivo é demonstrar domínio em programação de CLPs, lógica de controle, integração de sistemas e simulação de processos industriais.
+O objetivo é demonstrar domínio em programação de CLPs, lógica de controle, e simulação de processos industriais.
 
 Os projetos foram desenvolvidos utilizando:
 
-- CODESYS (programação de CLP)
-- Factory I/O (simulação industrial 3D)
+- LogixPro (IDE para programação de CLP e simulação)
 - Boas práticas de engenharia de automação
 
 
@@ -19,7 +18,7 @@ Os projetos foram desenvolvidos utilizando:
 Este portfólio tem como finalidade:
 
 - Demonstrar conhecimento técnico em automação industrial
-- Simular cenários reais utilizados na indústria
+- Simular cenários reais utilizados na indústria e dia-a-dia
 - Aplicar conceitos de controle, segurança e eficiência
 - Servir como base para atuação profissional na área
 
@@ -29,20 +28,12 @@ Este portfólio tem como finalidade:
 Ao longo dos projetos, são explorados:
 
 - Programação em Ladder (LD)
-- Texto Estruturado (ST - Structured Text)
 - Lógica sequencial e combinacional
-- Temporizadores e contadores
-- Intertravamentos e sistemas de segurança
+- Temporizadores, contadores, comparadores, operadores matemáticos e blocos de conversão BCD
+- Intertravamentos, selos e sistemas de segurança
 - Controle de processos industriais
 - Leitura e tratamento de sinais digitais e analógicos
 
-
-### :wrench: Tecnologias Utilizadas
-
-- CLP (Controlador Lógico Programável)
-- CODESYS
-- Factory I/O
-- Simulação de sensores e atuadores industriais
 
 
 ### :file_folder: Estrutura dos Projetos
@@ -54,25 +45,23 @@ Cada projeto segue uma estrutura padronizada:
 ├── README.md        → Descrição do projeto</br>
 ├── docs/            → Diagramas e documentação</br>
 ├── plc/             → Código do CLP</br>
-├── hmi/             → Interface (quando aplicável)</br>
-├── simulation/      → Vídeos e testes no Factory I/O</br>
+├── simulation/      → Vídeos das simulações no LogixPro</br>
 
 
 ### 🚀: Projetos Desenvolvidos
 
-- Sistemas de esteiras automatizadas
-- Controle de nível de tanques
-- Sistemas de mistura (batch)
-- Controle de motores e inversores de frequência
-- Sistemas de classificação e separação
-- Controle de elevadores
-- Sistemas térmicos e industriais (caldeiras)
-- Integração com supervisórios (SCADA)
+- Portão Automático
+- Portão Automático com Temporizador
+- Semáforo com Comparadores
+- Semáforo com Temporizadores
+- Esteira com Silo e Contagem de Caixas
+- Tanque Batch com Chave Seletora
+- Tanque Batch com Display BCD
 
 
 ### 🎥: Demonstrações
 
-Os projetos incluem simulações visuais utilizando o Factory I/O, permitindo:
+Os projetos incluem simulações visuais utilizando o LogixPro, permitindo:
 
 - Visualização clara do funcionamento
 - Entendimento mesmo para públicos não técnicos
