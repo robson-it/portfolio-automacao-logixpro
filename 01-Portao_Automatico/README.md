@@ -33,24 +33,18 @@ O projeto tem como objetivos:
 
 O sistema é composto por dispositivos de comando, sensores de posicionamento e elementos de acionamento.
 
-Elemento| Função
-CLP| Processamento da lógica de controle
-Botão de abertura| Solicita a abertura do portão
-Botão de fechamento| Solicita o fechamento do portão
-Sensor de fim de curso aberto| Identifica o limite de abertura
-Sensor de fim de curso fechado| Identifica o limite de fechamento
-Saída de abertura| Acionamento responsável pela abertura
-Saída de fechamento| Acionamento responsável pelo fechamento
-Botão de abertura               | Solicita a abertura do portão
-Botão de fechamento             | Solicita o fechamento do portão
-Botão de parada                 | Interrompe o funcionamento do sistema
-Sensor de fim de curso aberto   | Identifica o limite de abertura
-Sensor de fim de curso fechado  | Identifica o limite de fechamento
-Saída de abertura               | Acionamento responsável pela abertura
-Saída de fechamento             | Acionamento responsável pelo fechamento
-Lâmpada Shut                    | Indica o fechamento completo do portão
-Lâmpada Open                    | Indica a abertura completa do portão
-Lâmpada Ajar                    | Indica o portão entreaberto
+| Elemento: _____________________________ | Função: ______________________________________ | \
+| CLP_____________________________________: Processamento da lógica de controle \
+| Botão de abertura______________________: Solicita a abertura do portão \
+| Botão de fechamento__________________: Solicita o fechamento do portão \
+| Botão de parada________________________: Interrompe o funcionamento do sistema \
+| Sensor de fim de curso aberto_________: Identifica o limite de abertura \
+| Sensor de fim de curso fechado________: Identifica o limite de fechamento \
+| Saída de abertura_______________________: Acionamento responsável pela abertura \
+| Saída de fechamento___________________: Acionamento responsável pelo fechamento \
+| Lâmpada Shut__________________________: Indica o fechamento completo do portão \
+| Lâmpada Open_________________________: Indica a abertura completa do portão \
+| Lâmpada Ajar___________________________: Indica o portão entreaberto 
 
 🧠 Lógica de Controle
 
@@ -114,19 +108,19 @@ Os vídeos e demais evidências de funcionamento estarão disponíveis no diret�
 
 📁 Estrutura do Projeto
 
-portao-automatico/
-│
-├── README.md
-│
-├── docs/
-│   ├── diagrama-comando
-│   └── diagrama-potencia
-│
-├── plc/
-│   └── programa-ladder
-│
-└── simulation/
-    └── videos-e-evidencias
+portao-automatico/ \
+│ \
+├── README.md \
+│ \
+├── docs/ \
+│   ├── diagrama-comando \
+│   └── diagrama-potencia \
+│ \
+├── plc/ \
+│   └── programa-ladder \
+│ \
+├── simulation/ \
+│   └── videos-e-evidencias 
 
 🚀 Possíveis Melhorias
 
