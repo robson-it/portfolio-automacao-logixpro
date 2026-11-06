@@ -9,6 +9,7 @@ https://github.com/user-attachments/assets/b7b5dbbe-e048-45bb-ac9e-49ee377ab758
 - Acionamento da solenoide após o posicionamento da caixa
 - Verificação do nível cheio e acionamento da esteira para continuidade do processo
 - Parada do processo antes e depois de encher a caixa
+- Contagem de caixas, onde a posição da chave seletora em A contam 5 caixas, em B contam 10 caixas e em C contam 15 caixas
 Obs: Para realizar a parada do processo durante o enchimento, seria necessário um sensor de nível baixo ou algo que alterasse o estado de NC para NO ou NO para NC, permitindo trabalhar com selo na solenoide e assim fazendo a parada, rompendo o selo através da botoeira STOP ou uma botoeira de retenção no STOP
 
 
