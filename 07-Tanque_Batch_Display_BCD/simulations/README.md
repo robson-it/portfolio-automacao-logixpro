@@ -1,4 +1,4 @@
-## :video_camera: Vídeo simulação de um tanque batch com display para seleção do nível do tanque:
+## :video_camera: Vídeo simulação de um tanque batch com display para seleção de nível:
 
 
 
