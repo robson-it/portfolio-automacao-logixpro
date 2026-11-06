@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/9e508118-27d2-427a-a947-81adbe19d18d
 - Acionamento do heater para aquecimento do líquido até a temperatura definida no termostato, antes de dar vasão
 - Acionamento da bomba de vasão, após a conclusão do processo de mistura e aquecimento
 - Teste de parada do sistema através da botoeira STOP, foi definido que durante o enchimento do tanque a parada seria imediata, porém, após o enchimento do tanque e início do processo, se acionada a botoeira STOP, o sistema executa a parada apenas após finalizar a vasão do fluído.
-- Foi definido que o tanque será enchido 50% pela bomba 1 e 50% pela bomba 2 e o limite será definido no seletor BCD. Caso o nível selecionado seja maior que a capacidade do tanque, o sensor alto faz a verificação, permitindo que o tanque encha até o seu limite sem transbordar. 
+- Foi definido que o tanque será enchido 50% pela bomba 1 e 50% pela bomba 2, com nível máximo definido no seletor BCD. Caso o nível selecionado seja maior que a capacidade do tanque, o sensor alto faz a verificação, permitindo que o tanque encha até o seu limite sem transbordar. 
 
 
 ### :computer: Screenshot do programa desenvolvido em Ladder:
